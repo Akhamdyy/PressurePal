@@ -92,6 +92,3 @@ Developed with ❤️ by Ali Khaled for his father.
 
 
 ***
-
-### 🌟 Next Steps
-You can run `git init`, `git add .`, `git commit -m "v3.3.1: AI, OCR, Voice, and Guardian Mode"`, and push this up to GitHub! Let me know when you are ready to tackle Phase 9!

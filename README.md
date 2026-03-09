@@ -81,7 +81,7 @@ Bash
 flutter run
 (Note: Voice, Camera OCR, and Telephony require a physical Android device to test properly).
 
-🛣️ Future Roadmap (Phase 9+)
+## 🛣️ Future Roadmap 
 The Digital Pharmacist: Advanced medication inventory tracking and refill alarms.
 
 Smartwatch Integration: Passive logging via Google Health Connect.

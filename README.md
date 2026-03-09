@@ -88,7 +88,7 @@ Smartwatch Integration: Passive logging via Google Health Connect.
 
 Bluetooth Bridge: Direct BLE integration with Omron/Beurer monitors.
 
-Developed with ❤️ by Ali Khaled for his father.
+### Developed with ❤️ by Ali Khaled for his father.
 
 
 ***
